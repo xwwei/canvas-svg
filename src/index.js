@@ -49,6 +49,7 @@ requestAnimationFrame( animate )
 
 // document.body.appendChild(div)
 
+// canvas创建1000个加载动画
 const canvas = document.createElement('canvas')
 canvas.width = 1000
 canvas.height = 3000
